@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">YUNO-Render</string>
+    
+    <string name="menu_0">Color</string>
+    <string name="menu_1">Texture</string>
+    <string name="menu_2">Grid</string>
+
+</resources>
